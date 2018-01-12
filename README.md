@@ -1,2 +1,3 @@
 # Hello-world
-The famous helloworld
+The beginning of a journey on Github
+#cheesy
